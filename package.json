@@ -1,0 +1,8 @@
+{
+  "name": "test-buidljs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/PopeNobody/test-buidljs.git",
+  "author": "nobody <github2@invisiblehand.church>",
+  "license": "MIT"
+}
